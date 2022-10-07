@@ -5,5 +5,8 @@ public class Sorter {
 
 
         System.out.print("test for run code");
+        System.out.print("second test");
+        System.out.print("third test");
+
     }
 }
